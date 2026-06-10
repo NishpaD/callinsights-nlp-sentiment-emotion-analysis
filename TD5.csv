@@ -1,0 +1,49 @@
+call_transcript,agent,call_status,duration,waiting_time,time_bucket,timestamp
+Service was excellent and I am very happy,Agent A,resolved,6,2,Morning,01-04-2026 09:15
+I am very frustrated with the delay,Agent B,complaint,12,5,Afternoon,01-04-2026 14:20
+Okay service nothing special,Agent C,resolved,5,1,Evening,01-04-2026 18:40
+This is the worst experience ever,Agent D,complaint,15,6,Night,01-04-2026 21:10
+Thank you for your help great support,Agent A,resolved,7,2,Morning,02-04-2026 10:00
+I am unhappy with the service,Agent B,complaint,11,4,Afternoon,02-04-2026 15:10
+Everything is fine thanks,Agent C,resolved,4,1,Evening,02-04-2026 17:45
+I waited too long very annoying,Agent D,abandoned,10,7,Night,02-04-2026 22:30
+Good job I appreciate it,Agent A,resolved,6,2,Morning,03-04-2026 09:50
+This is unacceptable service,Agent B,complaint,13,6,Afternoon,03-04-2026 13:35
+Neutral experience nothing much,Agent C,pending,5,2,Evening,03-04-2026 18:05
+I am satisfied with the support,Agent D,resolved,7,3,Night,03-04-2026 20:55
+Very bad response from your team,Agent A,complaint,14,5,Morning,04-04-2026 09:25
+Thanks everything went well,Agent B,resolved,6,2,Afternoon,04-04-2026 14:15
+It was okay not great not bad,Agent C,pending,5,1,Evening,04-04-2026 17:50
+I am extremely happy with service,Agent D,resolved,8,2,Night,04-04-2026 21:20
+This is ridiculous and frustrating,Agent A,complaint,13,6,Morning,05-04-2026 10:10
+Service is decent,Agent B,resolved,6,2,Afternoon,05-04-2026 13:45
+I feel disappointed,Agent C,complaint,9,3,Evening,05-04-2026 18:25
+Great support thank you,Agent D,resolved,7,2,Night,05-04-2026 22:05
+Call dropped and no response,Agent A,abandoned,8,5,Morning,06-04-2026 09:30
+Everything handled perfectly,Agent B,resolved,6,2,Afternoon,06-04-2026 15:00
+Nothing much to say,Agent C,pending,5,2,Evening,06-04-2026 17:40
+I am very upset with this,Agent D,complaint,12,5,Night,06-04-2026 21:35
+Excellent quick resolution,Agent A,resolved,5,1,Morning,07-04-2026 10:20
+Bad service and delay,Agent B,complaint,14,6,Afternoon,07-04-2026 14:50
+It was average experience,Agent C,pending,6,2,Evening,07-04-2026 18:10
+Very helpful agent,Agent D,resolved,7,2,Night,07-04-2026 22:15
+I am angry about this issue,Agent A,complaint,13,6,Morning,08-04-2026 09:40
+Nice support overall,Agent B,resolved,6,2,Afternoon,08-04-2026 13:55
+Neutral call nothing happened,Agent C,pending,5,2,Evening,08-04-2026 17:20
+This is terrible service,Agent D,complaint,15,7,Night,08-04-2026 21:50
+Happy with the outcome,Agent A,resolved,6,2,Morning,09-04-2026 10:05
+Not satisfied at all,Agent B,complaint,12,5,Afternoon,09-04-2026 14:30
+Okay support,Agent C,pending,5,1,Evening,09-04-2026 18:00
+Very good assistance,Agent D,resolved,7,2,Night,09-04-2026 22:10
+Long waiting time annoyed me,Agent A,complaint,11,6,Morning,10-04-2026 09:10
+Everything is fine,Agent B,resolved,5,2,Afternoon,10-04-2026 15:25
+Nothing to complain,Agent C,resolved,4,1,Evening,10-04-2026 17:35
+Extremely bad experience,Agent D,complaint,14,7,Night,10-04-2026 21:45
+Great and quick help,Agent A,resolved,6,2,Morning,11-04-2026 09:55
+Frustrated with the delay,Agent B,complaint,13,6,Afternoon,11-04-2026 13:20
+Call was normal,Agent C,pending,5,2,Evening,11-04-2026 18:30
+Very satisfied customer,Agent D,resolved,7,2,Night,11-04-2026 22:25
+I hate this service,Agent A,complaint,15,7,Morning,12-04-2026 10:30
+Good enough service,Agent B,resolved,6,2,Afternoon,12-04-2026 14:05
+Average interaction,Agent C,pending,5,2,Evening,12-04-2026 17:55
+Excellent support team,Agent D,resolved,7,2,Night,12-04-2026 21:30
